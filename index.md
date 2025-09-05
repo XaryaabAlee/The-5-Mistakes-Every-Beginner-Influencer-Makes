@@ -99,4 +99,5 @@ Popularity Bazaar is a leading platform dedicated to helping influencers, creato
 - **City:** London, EC1V 2NX  
 - **Country:** United Kingdom  
 - **Website:** [www.popularitybazaar.com](http://www.popularitybazaar.com/)
-- LICENSE NOTICE: *This article is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) — free to share and adapt with attribution.*
+- **LICENSE NOTICE:**  
+*This article is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) — free to share and adapt with attribution.*
